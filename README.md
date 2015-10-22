@@ -1,2 +1,2 @@
 # R-Language
-# This is my process of learning R language~
+# This is my record of learning R language~
